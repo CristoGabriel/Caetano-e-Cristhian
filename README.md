@@ -4,12 +4,12 @@
 
 <h1> O que é o GitHub?</h1>
 
-<h1>O que é: </h1><p>GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão (VCS) chamado Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.</p>
+<h2>O que é: </h2><p>GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão (VCS) chamado Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.</p>
 
-<h1>Utilidades: </h1>
+<h2>Utilidades: </h2>
 <p><strong>Utilidades: </strong>Armazenamento de código, gestão de projetos, Usado como portifólio e versionamento de códigos.</p>
 
-<h1>O que é versionamento: </h1>
+<h2>O que é versionamento: </h2>
 <p>Sempre que desenvolvedores criam um novo projeto eles continuam criando atualizações no código base. Mesmo depois de o projeto ser lançado é comum a atualização de versões, correção de bugs, adição de novas ferramentas, etc.</p>
 
 <h1>O funcionamento do Git</h1>
